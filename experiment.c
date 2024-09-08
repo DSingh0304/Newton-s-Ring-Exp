@@ -7,7 +7,7 @@ int main()
         printf("Enter the %d element: ",i);
         scanf("%f", &temp);
         arr[i] = temp*temp;
-        printf("\n");
+        printf("sex/n" );
     }
     
     float diff , cal , sum =0;
